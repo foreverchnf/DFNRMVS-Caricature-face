@@ -5,11 +5,11 @@ Use run_DFNRMVS_demo.ipynb in Google Colab, you can check the results of DFNRMVS
 
 ## 2 Use DFNRMVS in Ubuntu 18.04 with Nvidia GPU
 ### 2.1 Run official demo
-Follow the guide in [DFNRMVS](https://github.com/zqbai-jeremy/DFNRMVS) to compile environment.
+(1) Follow the guide in [DFNRMVS](https://github.com/zqbai-jeremy/DFNRMVS) to compile environment.
 #### Prerequisite
 - Nvidia GPU resource available and Nvidia drive correctly installed 
 
-Run demo.py successfully in your machine.
+(2) Run demo.py successfully in your machine.
 
 ### 2.2 Make Caricature face
 #### Prerequisite
@@ -20,7 +20,7 @@ Run demo.py successfully in your machine.
   * [shape_predictor_68_face_landmarks.dat](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) on path
   * DFNRMVS_caricature_utils.py on path
   
-Run DFNRMVS_caricature.py to make a Caricature face based on DFNRMVS reconstruction
+#### Run DFNRMVS_caricature.py to make a Caricature face based on DFNRMVS reconstruction
 
  
 

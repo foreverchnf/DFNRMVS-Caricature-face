@@ -1,4 +1,4 @@
-# DFNRMVS
+# DFNRMVS-Caricature-face
 
 ## 1 Run DFNRMVS in Google Colab
 Use run_DFNRMVS_demo.ipynb in Google Colab, you can check the results of DFNRMVS.

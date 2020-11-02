@@ -8,6 +8,7 @@ Use run_DFNRMVS_demo.ipynb in Google Colab, you can check the results of DFNRMVS
 Follow the guide in [DFNRMVS](https://github.com/zqbai-jeremy/DFNRMVS) to compile environment.
 #### Prerequisite
 - Nvidia GPU resource available and Nvidia drive correctly installed 
+
 Run demo.py successfully in your machine.
 
 ### 2.2 Make Caricature face

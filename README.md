@@ -18,9 +18,9 @@ Use run_DFNRMVS_demo.ipynb in Google Colab, you can check the results of DFNRMVS
 - Be sure 
   * Run it on the same path as the official demo.py of [DFNRMVS](https://github.com/zqbai-jeremy/DFNRMVS)
   * [shape_predictor_68_face_landmarks.dat](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) on path
-  * DFNRMVS_caricature_utils.py on path
+  * DFNRMVS_Caricature_utils.py on path
   
-#### Run DFNRMVS_caricature.py to make a Caricature face based on DFNRMVS reconstruction
+#### Run DFNRMVS_Caricature.py to make a Caricature face based on DFNRMVS reconstruction
 
  
 

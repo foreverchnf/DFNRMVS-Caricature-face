@@ -22,6 +22,12 @@ Use run_DFNRMVS_demo.ipynb in Google Colab, you can check the results of DFNRMVS
   
 #### Run DFNRMVS_Caricature.py to make a Caricature face based on DFNRMVS reconstruction
 
+## Results
+<img src="https://github.com/foreverchnf/DFNRMVS-Caricature-face/blob/master/face_1.jpg" width="300" height="300" alt="face"/>
+<img src="https://github.com/foreverchnf/DFNRMVS-Caricature-face/blob/master/2020-11-06%2013-28-27%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" width="300" height="300" alt="face"/>
+<img src="https://github.com/foreverchnf/DFNRMVS-Caricature-face/blob/master/defor_face.png" width="300" height="300" alt="face"/>
+<img src="https://github.com/foreverchnf/DFNRMVS-Caricature-face/blob/master/Caricature.jpg" width="300" height="300" alt="face"/>
+
  
 
   
